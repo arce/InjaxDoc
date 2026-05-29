@@ -1,0 +1,4 @@
+markdown: CommonMarkGhPages
+commonmark:
+  options: ["UNSAFE"]
+  extensions: ["strikethrough", "autolink", "table"]
